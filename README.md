@@ -3,7 +3,7 @@
 - 👀 I’m interested in understanding a developer's thought processes and workflow 
 - 🌱 I’m currently learning how to effectively use PPC advertisements to close B2B sales
 
-- 📫 If you want to reach me email @madisondelgad10@gmail.com
+
 
 <!---
 Madison55/Madison55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
