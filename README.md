@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madison55, and I'm not a developer. I'm a marketer, but I work with devs all day
+- 👋 Hi, I’m @Madison55, and I'm not a developer, but I work with devs all day
 - <3 I'm passionate about the developer economy and fair compensation of overseas developers who are working for USA-based companies
 - 👀 I’m interested in understanding a developer's thought processes and workflow 
 - 🌱 I’m currently learning how to effectively use PPC advertisements to close B2B sales
